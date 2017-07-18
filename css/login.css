@@ -9,7 +9,7 @@
 }
 /*body*/
 body{
-	height:660px;
+	height:750px;
 	display:flex;
 	flex-direction:row;
 	justify-content:center;
